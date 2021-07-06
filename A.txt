@@ -2,3 +2,5 @@ This is file A.
 My name is Manas.
 My first change in file A.
 My second change in file A.
+My third change in file A.
+My fourth change in file A.
